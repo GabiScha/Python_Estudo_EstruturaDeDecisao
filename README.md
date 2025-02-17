@@ -1,4 +1,4 @@
-<h1 align="center">「 Python 」- EstruturaDeDescisao_Ⅰ</h1>
+<h1 align="center">「 Python 」- EstruturaDeDecisao_Ⅰ</h1>
 
 
 
@@ -11,7 +11,7 @@ O objetivo do projeto é colocar em uso a lógica de programação em python.
 
 Este projeto resolve 28 atividades utilizando alguns conceitos do python, que incluem a criação de variáveis, estruturas condicionais (if/else), impressão de valores com print().
 
-<a href="https://wiki.python.org.br/EstruturaSequencial">Link das Atividades</a>
+<a href="https://wiki.python.org.br/EstruturaDeDecisao">Link das Atividades</a>
 
 <h2 id=technology>💻 Tecnologias</h2>
 
